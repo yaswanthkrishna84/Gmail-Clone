@@ -22,7 +22,7 @@ You can view the site here
 
 ## Author
 
-Özge Coşkun Gürsucu (codermother)
+Yaswanth Krishna
 
 In the project directory, you can run:
 
